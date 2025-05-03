@@ -1,0 +1,15 @@
+generations:
+  - name: "First Generation"
+    start_year: 2003
+    end_year: 2007
+    description: "The original Cadillac CTS was a pivotal model that introduced the brand's Art & Science design language, featuring sharp angles and distinctive vertical lighting elements. Built on GM's Sigma platform with a rear-wheel drive layout, it marked Cadillac's return to the compact luxury sport sedan segment to compete with German rivals. Initially powered by a 3.2L V6 producing 220 HP (later replaced by a 3.6L V6 with 255 HP), paired with either a 5-speed manual or automatic transmission. The high-performance CTS-V variant was introduced in 2004, featuring a 5.7L LS6 V8 from the Corvette Z06 producing 400 HP. The interior featured a blend of traditional luxury elements with modern technological features, though material quality received some criticism. The first-generation CTS helped redefine Cadillac's image as a more dynamic, contemporary luxury brand."
+
+  - name: "Second Generation"
+    start_year: 2008
+    end_year: 2013
+    description: "The second-generation CTS grew in size, refinement, and performance, moving more firmly into the mid-size luxury segment. Built on an enhanced version of the Sigma platform, it featured more sophisticated styling while maintaining the Art & Science design elements. Engine options expanded to include a 3.0L V6 with 270 HP, a 3.6L V6 with 304 HP, and in 2010, a 3.6L twin-turbo V6 producing 556 HP in the CTS-V. The lineup expanded to include coupe and wagon body styles, with the striking coupe particularly enhancing Cadillac's design credentials. The interior saw significant improvements in material quality, design, and technology. The second-generation CTS, particularly the CTS-V, received critical acclaim for its performance and handling, helping establish Cadillac's credibility in the performance luxury segment."
+
+  - name: "Third Generation"
+    start_year: 2014
+    end_year: 2019
+    description: "The final generation of the CTS moved further upmarket to compete directly with the BMW 5 Series and Mercedes-Benz E-Class. Built on GM's new Alpha platform, it was lighter and more agile than its predecessor despite increased dimensions. Engine options included a turbocharged 2.0L four-cylinder with 272 HP, a 3.6L V6 with 335 HP, and a twin-turbocharged 3.6L V6 producing 420 HP in the CTS Vsport. The CTS-V featured a supercharged 6.2L V8 delivering 640 HP, making it one of the most powerful sedans in the world at its launch. The interior offered sophisticated design, premium materials, and advanced technology including Cadillac's CUE infotainment system. While critically acclaimed for its driving dynamics and performance, the third-generation CTS faced sales challenges in a market increasingly shifting toward SUVs. It was discontinued after 2019 and effectively replaced by the CT5 in Cadillac's lineup."
