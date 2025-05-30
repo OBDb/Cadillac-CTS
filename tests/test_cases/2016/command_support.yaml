@@ -55,4 +55,4 @@ supported_commands_by_ecu:
   - 0142:VPWR
 unsupported_commands_by_ecu:
   DA28:
-  - DA28.224C2F
+  - DA28.224C2F|fc=1,c=14:CADILLAC_LAT_G
