@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Cadillac_CTS"
+
 generations:
   - name: "First Generation"
     start_year: 2003
@@ -6,8 +9,8 @@ generations:
 
   - name: "Second Generation"
     start_year: 2008
-    end_year: 2013
-    description: "The second-generation CTS grew in size, refinement, and performance, moving more firmly into the mid-size luxury segment. Built on an enhanced version of the Sigma platform, it featured more sophisticated styling while maintaining the Art & Science design elements. Engine options expanded to include a 3.0L V6 with 270 HP, a 3.6L V6 with 304 HP, and in 2010, a 3.6L twin-turbo V6 producing 556 HP in the CTS-V. The lineup expanded to include coupe and wagon body styles, with the striking coupe particularly enhancing Cadillac's design credentials. The interior saw significant improvements in material quality, design, and technology. The second-generation CTS, particularly the CTS-V, received critical acclaim for its performance and handling, helping establish Cadillac's credibility in the performance luxury segment."
+    end_year: 2014
+    description: "The second-generation CTS grew in size, refinement, and performance, moving more firmly into the mid-size luxury segment. Built on an enhanced version of the Sigma platform (Sigma II), it featured more sophisticated styling while maintaining the Art & Science design elements. Engine options expanded to include a 3.0L V6 with 270 HP, a 3.6L V6 with 304 HP, and in 2010, a 3.6L twin-turbo V6 producing 556 HP in the CTS-V. The lineup expanded to include coupe (2011-2014) and wagon (2010-2014) body styles, with the striking coupe particularly enhancing Cadillac's design credentials. The interior saw significant improvements in material quality, design, and technology. The second-generation CTS, particularly the CTS-V, received critical acclaim for its performance and handling, helping establish Cadillac's credibility in the performance luxury segment. The second-generation CTS-V was marketed through 2014, concurrent with the third generation standard sedan."
 
   - name: "Third Generation"
     start_year: 2014
